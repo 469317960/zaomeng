@@ -1,8 +1,0 @@
-每个同学通过QQ向小泽辅导（QQ：2012594699）申请 创建属于自己的学校，并分配vcode
-
-打开如下网址 链接：https://github.com/jcyrss/songqin-testdev/tree/master/sproject/code
-
-根据接口文档(第三方学校管理API接口.docx)和测试用例文档(testcases.xlsm), 使用RF和Python开发自动测试系统，
-完成用例（tc000001-tc000003）的自动化
-
-可以在当天课程代码(spj01.zip) 的基础上完成
